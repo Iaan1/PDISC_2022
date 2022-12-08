@@ -3,9 +3,6 @@ from tkinter import scrolledtext as st
 import sys
 from tkinter import filedialog as fd
 from tkinter import messagebox as mb
-import os
-
-
 
 class Aplicacion:
     def __init__(self):
